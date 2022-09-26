@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/kyi-chan-439b35b4/).
 - 💬 Ask me about design or any tech-related stuff.
-- 📫 How to reach me: [Youtube - Dina Wanderlust](https://www.youtube.com/channel/UCvJ9eaRijyaaF1R5XUR7L3g) 
+- 📫 How to reach me: [Emai](<mailto:kyichan2016@gmail.com>) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes faith has growing pains.
 
