@@ -1,11 +1,11 @@
-## Hello, I'm [Mu Ka Hbaw!](https://www.mukahbaw.com) 👋
+## Hello, I'm [Kyi Chan!](https://www.linkedin.com/in/kyi-chan-439b35b4/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sawmu&label=Views&color=blue&style=plastic" alt="sawmu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kyichan&label=Views&color=blue&style=plastic" alt="kyichan" /> </p>
 
 # 💫About Me :
-- 🔭 I’m currently working on [React & Laravel Project](https://www.mukahbaw.com/).
+- 🔭 I’m currently working on [React & Laravel Project](https://www.linkedin.com/in/kyi-chan-439b35b4/).
 - 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCvJ9eaRijyaaF1R5XUR7L3g).
+- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/kyi-chan-439b35b4/).
 - 💬 Ask me about design or any tech-related stuff.
 - 📫 How to reach me: [Youtube - Dina Wanderlust](https://www.youtube.com/channel/UCvJ9eaRijyaaF1R5XUR7L3g) 
 - 😄 Pronouns: He/Him
