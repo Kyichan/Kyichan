@@ -4,7 +4,7 @@
 
 # 💫About Me :
 - 🔭 I’m currently working on [React & Laravel Project](https://www.linkedin.com/in/kyi-chan-439b35b4/).
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I have been done BlockChain Trace App, built with React (Frontend) and Python (Backend).
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/kyi-chan-439b35b4/).
 - 💬 Ask me about design or any tech-related stuff.
 - 📫 How to reach me: [Email](<mailto:kyichan2016@gmail.com>) 
